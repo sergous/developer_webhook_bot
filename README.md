@@ -27,3 +27,5 @@ npm run build
 
 [github-actions-image]: https://github.com/sgratzl/developer_webhook_bot/workflows/nodeci/badge.svg
 [github-actions-url]: https://github.com/sgratzl/developer_webhook_bot/actions
+
+Deploy to Vercel
